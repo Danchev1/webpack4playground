@@ -1,9 +1,17 @@
 body {
   display: flex;
-  background-color: #353e43;
+  margin: 0;
+  background-color: darkslateblue;
   color: #f2f2f2;
 }
 
 body h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
   text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 5em;
+  text-shadow: 0 0 20px black;
 }

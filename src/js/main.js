@@ -1,3 +1,2 @@
-import '../css/main.css';
-
+import "../css/main.css";
 alert('Webpack and shit !');
