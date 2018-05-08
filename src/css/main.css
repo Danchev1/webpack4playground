@@ -1,0 +1,9 @@
+body {
+  display: flex;
+  background-color: #353e43;
+  color: #f2f2f2;
+}
+
+body h1 {
+  text-align: center;
+}
